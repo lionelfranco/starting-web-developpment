@@ -1,0 +1,51 @@
+body {
+  background-color: #CCCBC4;
+  padding: 30%;
+}
+.intro {
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  vertical-align: middle;
+  text-align: center;
+  margin-top: -350px;
+}
+.links {
+  margin-top: 50px;
+  background-color: white;
+  height: 100px;
+  width: 500px;
+  text-align: center;
+}
+.movies {
+  margin-top: 50px;
+  background-color: white;
+  height: 850px;
+  width: 500px;
+  vertical-align: middle;
+  text-align: justify;
+}
+h1 {
+  color: red;
+}
+.bouton {
+  border:none;
+	padding:8px 0 8px 0;
+	border-radius:8px;
+	background:#d34836;
+	font:bold 13px Arial;
+	color:#fff;
+}
+.image-profil {
+  border-radius: 80%;
+}
+h4 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.espace {
+  border-collapse : separate;
+  border-spacing : 50px;
+}
