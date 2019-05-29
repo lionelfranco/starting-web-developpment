@@ -16,6 +16,7 @@ body {
   height: 100px;
   width: 500px;
   text-align: center;
+  justify-content: space-around;
 }
 .movies {
   margin-top: 50px;
@@ -49,7 +50,13 @@ h2 {
   border-collapse : separate;
   border-spacing : 50px;
 }
-.table {
+.liste {
+  display: flex;
+  flex-direction: row;
   text-align: center;
-  vertical-align: middle;
+  justify-content: space-around;
+  margin-right: 50px;
+}
+.liste li a {
+  display: block;
 }
